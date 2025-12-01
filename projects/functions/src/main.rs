@@ -9,4 +9,4 @@ fn plus_one(x: i32) -> i32 {
 
 // Comments
 // Write Multiple lines if necessary 
-// The aboe is only for 3.4 in the Rust Book
+// The above is only for 3.4 in the Rust Book
